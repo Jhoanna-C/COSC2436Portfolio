@@ -8,4 +8,4 @@ The repository includes two projects from COSC 23436
 ### Apartment and Apartment List Program
 - **Description:** Apartment management
 - **Repository Link:** [Apartment](https://github.com/Jhoanna-C/COSC2436Portfolio/blob/Project2/Apartment.java)
-- **RepositoryLink:** [ApartmentLinkedList](https://github.com/Jhoanna-C/COSC2436Portfolio/blob/Project2/ApartmentsLinkedList.java)
+- **Repository Link:** [ApartmentLinkedList](https://github.com/Jhoanna-C/COSC2436Portfolio/blob/Project2/ApartmentsLinkedList.java)
